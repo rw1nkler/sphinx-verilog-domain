@@ -24,5 +24,5 @@ jobs:
         username: __token__
         distributions: sdist bdist_wheel
         skip_existing: true
-      on:
-        branch: fix_deploy
+        on:
+          branch: fix_deploy
